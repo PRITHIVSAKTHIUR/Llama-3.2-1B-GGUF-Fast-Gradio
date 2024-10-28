@@ -95,8 +95,7 @@ plays a pivotal role in pushing the boundaries of human exploration and settleme
 
 # Llama-3.2-1B-GGUF
 
-![Demo of Project]([Demo/gguf.gif](https://huggingface.co/prithivMLmods/Llama-3.2-1B-GGUF/resolve/main/Demo/gguf.gif))
-
+Demo : https://huggingface.co/prithivMLmods/Llama-3.2-1B-GGUF/resolve/main/Demo/gguf.gif
 
 
 You’re now ready to run your own model with Ollama!
